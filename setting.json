@@ -1,8 +1,8 @@
 {
-  "name-web":"Upah Umr",
+  "name-web":"Lokasi Wisata Indonesia",
   "author":"Masbuchin",
   "remove-comment-html":true,
-  "target":"https://upahminimum.com",
+  "target":"https://jejakpiknik.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"upahminimum.com",
+      "target":"jejakpiknik.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",

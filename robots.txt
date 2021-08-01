@@ -12,4 +12,4 @@ Allow: /
 User-agent: Adsbot-Google
 Allow: /
 
-Sitemap: https://gaji-umr.herokuapp.com/host-https-upahminimum.com/sitemap.xml
+Sitemap: https://wisata-indonesia.herokuapp.com/host-https-jejakpiknik.com/wp-sitemap.xml
